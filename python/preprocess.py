@@ -4,8 +4,6 @@ Run from the project root:
     python python/preprocess.py
 """
 
-from __future__ import annotations
-
 import json
 from pathlib import Path
 
